@@ -18,5 +18,4 @@ This project demonstrates a multi-stage AI pipeline that converts natural langua
 - `auth_flow.png` → Auth flow diagram.
 - `README.md` → Documentation.
 
-## Demo
-See Loom video for explanation of pipeline stages and outputs.
+
